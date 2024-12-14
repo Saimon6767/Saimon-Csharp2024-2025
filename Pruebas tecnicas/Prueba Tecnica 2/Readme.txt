@@ -1,0 +1,1 @@
+En esta prueba tecnica se ingresaran dos estudiantes y dos materias entonces se ingresara el nombre del estudiante, las materias y las notas de los estudiantes en cada materia y al final se imprimiran los datos
