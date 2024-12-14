@@ -1,0 +1,1 @@
+En este ejercicio se van a imprimir los numeros impares del 1 al 30
