@@ -1,0 +1,1 @@
+En este ejercicio se ingresara un sueldo entonces dependiendo de si tiene hijos o no se le aplicara un incentivo de 500
