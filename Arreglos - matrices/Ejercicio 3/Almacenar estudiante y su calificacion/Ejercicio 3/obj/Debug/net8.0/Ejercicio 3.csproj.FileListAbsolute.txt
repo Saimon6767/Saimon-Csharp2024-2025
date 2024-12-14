@@ -1,0 +1,14 @@
+C:\Users\Ainz\Desktop\Csharp Ejercicios\Ejercicios de consola\Arreglos - matrices\Ejercicio 3\Ejercicio 3\Ejercicio 3\bin\Debug\net8.0\Ejercicio 3.exe
+C:\Users\Ainz\Desktop\Csharp Ejercicios\Ejercicios de consola\Arreglos - matrices\Ejercicio 3\Ejercicio 3\Ejercicio 3\bin\Debug\net8.0\Ejercicio 3.deps.json
+C:\Users\Ainz\Desktop\Csharp Ejercicios\Ejercicios de consola\Arreglos - matrices\Ejercicio 3\Ejercicio 3\Ejercicio 3\bin\Debug\net8.0\Ejercicio 3.runtimeconfig.json
+C:\Users\Ainz\Desktop\Csharp Ejercicios\Ejercicios de consola\Arreglos - matrices\Ejercicio 3\Ejercicio 3\Ejercicio 3\bin\Debug\net8.0\Ejercicio 3.dll
+C:\Users\Ainz\Desktop\Csharp Ejercicios\Ejercicios de consola\Arreglos - matrices\Ejercicio 3\Ejercicio 3\Ejercicio 3\bin\Debug\net8.0\Ejercicio 3.pdb
+C:\Users\Ainz\Desktop\Csharp Ejercicios\Ejercicios de consola\Arreglos - matrices\Ejercicio 3\Ejercicio 3\Ejercicio 3\obj\Debug\net8.0\Ejercicio 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ainz\Desktop\Csharp Ejercicios\Ejercicios de consola\Arreglos - matrices\Ejercicio 3\Ejercicio 3\Ejercicio 3\obj\Debug\net8.0\Ejercicio 3.AssemblyInfoInputs.cache
+C:\Users\Ainz\Desktop\Csharp Ejercicios\Ejercicios de consola\Arreglos - matrices\Ejercicio 3\Ejercicio 3\Ejercicio 3\obj\Debug\net8.0\Ejercicio 3.AssemblyInfo.cs
+C:\Users\Ainz\Desktop\Csharp Ejercicios\Ejercicios de consola\Arreglos - matrices\Ejercicio 3\Ejercicio 3\Ejercicio 3\obj\Debug\net8.0\Ejercicio 3.csproj.CoreCompileInputs.cache
+C:\Users\Ainz\Desktop\Csharp Ejercicios\Ejercicios de consola\Arreglos - matrices\Ejercicio 3\Ejercicio 3\Ejercicio 3\obj\Debug\net8.0\Ejercicio 3.dll
+C:\Users\Ainz\Desktop\Csharp Ejercicios\Ejercicios de consola\Arreglos - matrices\Ejercicio 3\Ejercicio 3\Ejercicio 3\obj\Debug\net8.0\refint\Ejercicio 3.dll
+C:\Users\Ainz\Desktop\Csharp Ejercicios\Ejercicios de consola\Arreglos - matrices\Ejercicio 3\Ejercicio 3\Ejercicio 3\obj\Debug\net8.0\Ejercicio 3.pdb
+C:\Users\Ainz\Desktop\Csharp Ejercicios\Ejercicios de consola\Arreglos - matrices\Ejercicio 3\Ejercicio 3\Ejercicio 3\obj\Debug\net8.0\Ejercicio 3.genruntimeconfig.cache
+C:\Users\Ainz\Desktop\Csharp Ejercicios\Ejercicios de consola\Arreglos - matrices\Ejercicio 3\Ejercicio 3\Ejercicio 3\obj\Debug\net8.0\ref\Ejercicio 3.dll
