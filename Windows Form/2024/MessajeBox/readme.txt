@@ -1,0 +1,1 @@
+en esta palicacion de Windows form lo que se hizo fue explicar a como usar los message box y condiciones con este

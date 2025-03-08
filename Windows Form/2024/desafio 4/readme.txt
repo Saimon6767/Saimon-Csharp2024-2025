@@ -1,0 +1,1 @@
+en este desafio debíamos simular una factura, que se guardara en un txt  además que los campos del precio del dgv se calcularan correctamente y se mostrara en un label

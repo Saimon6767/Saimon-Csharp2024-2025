@@ -1,0 +1,16 @@
+C:\Users\Ainz\source\repos\MessajeBox\MessajeBox\bin\Debug\net8.0-windows\MessajeBox.exe
+C:\Users\Ainz\source\repos\MessajeBox\MessajeBox\bin\Debug\net8.0-windows\MessajeBox.deps.json
+C:\Users\Ainz\source\repos\MessajeBox\MessajeBox\bin\Debug\net8.0-windows\MessajeBox.runtimeconfig.json
+C:\Users\Ainz\source\repos\MessajeBox\MessajeBox\bin\Debug\net8.0-windows\MessajeBox.dll
+C:\Users\Ainz\source\repos\MessajeBox\MessajeBox\bin\Debug\net8.0-windows\MessajeBox.pdb
+C:\Users\Ainz\source\repos\MessajeBox\MessajeBox\obj\Debug\net8.0-windows\MessajeBox.Form1.resources
+C:\Users\Ainz\source\repos\MessajeBox\MessajeBox\obj\Debug\net8.0-windows\MessajeBox.csproj.GenerateResource.cache
+C:\Users\Ainz\source\repos\MessajeBox\MessajeBox\obj\Debug\net8.0-windows\MessajeBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ainz\source\repos\MessajeBox\MessajeBox\obj\Debug\net8.0-windows\MessajeBox.AssemblyInfoInputs.cache
+C:\Users\Ainz\source\repos\MessajeBox\MessajeBox\obj\Debug\net8.0-windows\MessajeBox.AssemblyInfo.cs
+C:\Users\Ainz\source\repos\MessajeBox\MessajeBox\obj\Debug\net8.0-windows\MessajeBox.csproj.CoreCompileInputs.cache
+C:\Users\Ainz\source\repos\MessajeBox\MessajeBox\obj\Debug\net8.0-windows\MessajeBox.dll
+C:\Users\Ainz\source\repos\MessajeBox\MessajeBox\obj\Debug\net8.0-windows\refint\MessajeBox.dll
+C:\Users\Ainz\source\repos\MessajeBox\MessajeBox\obj\Debug\net8.0-windows\MessajeBox.pdb
+C:\Users\Ainz\source\repos\MessajeBox\MessajeBox\obj\Debug\net8.0-windows\MessajeBox.genruntimeconfig.cache
+C:\Users\Ainz\source\repos\MessajeBox\MessajeBox\obj\Debug\net8.0-windows\ref\MessajeBox.dll
