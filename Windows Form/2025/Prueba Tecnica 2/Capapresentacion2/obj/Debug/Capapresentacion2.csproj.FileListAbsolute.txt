@@ -1,0 +1,16 @@
+C:\Users\Ado xD\source\repos\Windows xd\Capapresentacion2\bin\Debug\Capapresentacion2.dll
+C:\Users\Ado xD\source\repos\Windows xd\Capapresentacion2\bin\Debug\Capapresentacion2.pdb
+C:\Users\Ado xD\source\repos\Windows xd\Capapresentacion2\bin\Debug\Capa entidades.dll
+C:\Users\Ado xD\source\repos\Windows xd\Capapresentacion2\bin\Debug\Capa Negocio.dll
+C:\Users\Ado xD\source\repos\Windows xd\Capapresentacion2\bin\Debug\Capa Datos.dll
+C:\Users\Ado xD\source\repos\Windows xd\Capapresentacion2\bin\Debug\Capa entidades.pdb
+C:\Users\Ado xD\source\repos\Windows xd\Capapresentacion2\bin\Debug\Capa Negocio.pdb
+C:\Users\Ado xD\source\repos\Windows xd\Capapresentacion2\bin\Debug\Capa Datos.pdb
+C:\Users\Ado xD\source\repos\Windows xd\Capapresentacion2\obj\Debug\Capapresentacion2.csproj.AssemblyReference.cache
+C:\Users\Ado xD\source\repos\Windows xd\Capapresentacion2\obj\Debug\Capapresentacion2.Capapresentacion.resources
+C:\Users\Ado xD\source\repos\Windows xd\Capapresentacion2\obj\Debug\Capapresentacion2.Form2.resources
+C:\Users\Ado xD\source\repos\Windows xd\Capapresentacion2\obj\Debug\Capapresentacion2.csproj.GenerateResource.cache
+C:\Users\Ado xD\source\repos\Windows xd\Capapresentacion2\obj\Debug\Capapresentacion2.csproj.CoreCompileInputs.cache
+C:\Users\Ado xD\source\repos\Windows xd\Capapresentacion2\obj\Debug\Capapres.4BC49AE5.Up2Date
+C:\Users\Ado xD\source\repos\Windows xd\Capapresentacion2\obj\Debug\Capapresentacion2.dll
+C:\Users\Ado xD\source\repos\Windows xd\Capapresentacion2\obj\Debug\Capapresentacion2.pdb

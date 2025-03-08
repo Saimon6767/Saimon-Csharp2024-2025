@@ -1,0 +1,1 @@
+en esta prueba se supone que luego de tantos ejercicios debemos saber usar consultas y tablas relacionadas, además debíamos implementar reportes en la aplicación, programación por capas y buen diseño
