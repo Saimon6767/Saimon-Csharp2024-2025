@@ -1,0 +1,1 @@
+Este programa permite ingresar cuatro notas y calcula el promedio del estudiante. Si el promedio es igual o mayor a 70, el programa indica que el estudiante aprobó; si es menor, indica que reprobó.
