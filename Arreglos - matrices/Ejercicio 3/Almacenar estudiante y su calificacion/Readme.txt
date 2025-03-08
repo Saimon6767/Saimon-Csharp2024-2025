@@ -1,0 +1,1 @@
+Este programa en C# solicita el nombre y la calificación de un estudiante, luego los muestra en la consola mediante una función que recibe estos datos como parámetros.
