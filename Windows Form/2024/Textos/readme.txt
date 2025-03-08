@@ -1,0 +1,1 @@
+en este formulario por primera vez usamos la creación de archivos de texto, no me funciona porque mi pc cambio desde la ultima vez y la localización del archivo de texto no es la misma, sin embargo si se cambia a una dirección valida de la pc ahora si funcionaria.

@@ -1,0 +1,16 @@
+C:\Users\Ainz\source\repos\Textos\Textos\bin\Debug\net8.0-windows\Textos.exe
+C:\Users\Ainz\source\repos\Textos\Textos\bin\Debug\net8.0-windows\Textos.deps.json
+C:\Users\Ainz\source\repos\Textos\Textos\bin\Debug\net8.0-windows\Textos.runtimeconfig.json
+C:\Users\Ainz\source\repos\Textos\Textos\bin\Debug\net8.0-windows\Textos.dll
+C:\Users\Ainz\source\repos\Textos\Textos\bin\Debug\net8.0-windows\Textos.pdb
+C:\Users\Ainz\source\repos\Textos\Textos\obj\Debug\net8.0-windows\Textos.Form1.resources
+C:\Users\Ainz\source\repos\Textos\Textos\obj\Debug\net8.0-windows\Textos.csproj.GenerateResource.cache
+C:\Users\Ainz\source\repos\Textos\Textos\obj\Debug\net8.0-windows\Textos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ainz\source\repos\Textos\Textos\obj\Debug\net8.0-windows\Textos.AssemblyInfoInputs.cache
+C:\Users\Ainz\source\repos\Textos\Textos\obj\Debug\net8.0-windows\Textos.AssemblyInfo.cs
+C:\Users\Ainz\source\repos\Textos\Textos\obj\Debug\net8.0-windows\Textos.csproj.CoreCompileInputs.cache
+C:\Users\Ainz\source\repos\Textos\Textos\obj\Debug\net8.0-windows\Textos.dll
+C:\Users\Ainz\source\repos\Textos\Textos\obj\Debug\net8.0-windows\refint\Textos.dll
+C:\Users\Ainz\source\repos\Textos\Textos\obj\Debug\net8.0-windows\Textos.pdb
+C:\Users\Ainz\source\repos\Textos\Textos\obj\Debug\net8.0-windows\Textos.genruntimeconfig.cache
+C:\Users\Ainz\source\repos\Textos\Textos\obj\Debug\net8.0-windows\ref\Textos.dll
