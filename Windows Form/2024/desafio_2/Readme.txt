@@ -1,0 +1,1 @@
+En este formulario se guardan los datos de un estudiante y luego de guardarlos se calcula el promedio de sus notas haciendo la operación en base a sus 4 ra y al final se decide si aprobó o no, cambiando el fondo a rojo si no y cambiando el fondo a verde si si.
