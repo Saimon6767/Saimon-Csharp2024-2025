@@ -1,0 +1,1 @@
+Este programa en C# solicita al usuario que ingrese 10 números dos veces, almacenándolos en dos arreglos. Luego, suma todos los valores y muestra el resultado en la consola.
