@@ -1,0 +1,16 @@
+C:\Users\Ainz\source\repos\Vorm badelyn\Vorm badelyn\bin\Debug\net8.0-windows\Vorm badelyn.exe
+C:\Users\Ainz\source\repos\Vorm badelyn\Vorm badelyn\bin\Debug\net8.0-windows\Vorm badelyn.deps.json
+C:\Users\Ainz\source\repos\Vorm badelyn\Vorm badelyn\bin\Debug\net8.0-windows\Vorm badelyn.runtimeconfig.json
+C:\Users\Ainz\source\repos\Vorm badelyn\Vorm badelyn\bin\Debug\net8.0-windows\Vorm badelyn.dll
+C:\Users\Ainz\source\repos\Vorm badelyn\Vorm badelyn\bin\Debug\net8.0-windows\Vorm badelyn.pdb
+C:\Users\Ainz\source\repos\Vorm badelyn\Vorm badelyn\obj\Debug\net8.0-windows\Vorm_badelyn.Form1.resources
+C:\Users\Ainz\source\repos\Vorm badelyn\Vorm badelyn\obj\Debug\net8.0-windows\Vorm badelyn.csproj.GenerateResource.cache
+C:\Users\Ainz\source\repos\Vorm badelyn\Vorm badelyn\obj\Debug\net8.0-windows\Vorm badelyn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ainz\source\repos\Vorm badelyn\Vorm badelyn\obj\Debug\net8.0-windows\Vorm badelyn.AssemblyInfoInputs.cache
+C:\Users\Ainz\source\repos\Vorm badelyn\Vorm badelyn\obj\Debug\net8.0-windows\Vorm badelyn.AssemblyInfo.cs
+C:\Users\Ainz\source\repos\Vorm badelyn\Vorm badelyn\obj\Debug\net8.0-windows\Vorm badelyn.csproj.CoreCompileInputs.cache
+C:\Users\Ainz\source\repos\Vorm badelyn\Vorm badelyn\obj\Debug\net8.0-windows\Vorm badelyn.dll
+C:\Users\Ainz\source\repos\Vorm badelyn\Vorm badelyn\obj\Debug\net8.0-windows\refint\Vorm badelyn.dll
+C:\Users\Ainz\source\repos\Vorm badelyn\Vorm badelyn\obj\Debug\net8.0-windows\Vorm badelyn.pdb
+C:\Users\Ainz\source\repos\Vorm badelyn\Vorm badelyn\obj\Debug\net8.0-windows\Vorm badelyn.genruntimeconfig.cache
+C:\Users\Ainz\source\repos\Vorm badelyn\Vorm badelyn\obj\Debug\net8.0-windows\ref\Vorm badelyn.dll
