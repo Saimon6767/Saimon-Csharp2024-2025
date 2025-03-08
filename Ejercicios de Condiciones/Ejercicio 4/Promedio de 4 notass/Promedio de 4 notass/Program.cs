@@ -5,8 +5,7 @@
         static void Main(string[] args)
         {
            
-            static void Main(string[] args)
-            {
+          
 
 
                 double nota1;
@@ -53,5 +52,5 @@
         }
 
     }
-}
+
 
