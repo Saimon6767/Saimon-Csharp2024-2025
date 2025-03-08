@@ -1,0 +1,1 @@
+Este programa en C# gestiona un inventario de dispositivos electrónicos en tres almacenes. Muestra una tabla con las cantidades de cada dispositivo en cada almacén, calcula el total de productos por almacén y determina qué dispositivo tiene la mayor y menor cantidad en cada uno.
