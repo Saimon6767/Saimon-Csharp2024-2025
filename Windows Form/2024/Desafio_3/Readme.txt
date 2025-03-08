@@ -1,0 +1,1 @@
+En este desafio se debia hacer una gestión de reserva la cual se guardaría en un richtextbox al agregarla
