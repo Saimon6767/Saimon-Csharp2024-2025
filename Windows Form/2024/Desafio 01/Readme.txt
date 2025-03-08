@@ -1,0 +1,1 @@
+La primera aplicación de Windows form que hicimos, trata de ingresar dos números y multiplicarlos, restarlos y sumarlos en diferentes espacios. perdone el diseño es el primero 
