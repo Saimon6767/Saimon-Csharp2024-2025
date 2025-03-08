@@ -1,0 +1,1 @@
+Este programa en C# solicita la edad y el género del usuario. Si es mayor de 18 años, verifica si su género es "hembra" para permitirle el acceso gratuito; de lo contrario, indica que debe pagar. Si es menor de edad, no se le permite el acceso.
