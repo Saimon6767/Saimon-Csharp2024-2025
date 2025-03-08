@@ -1,0 +1,1 @@
+Este programa en C# permite al usuario ingresar una cantidad personalizada de números, los suma y muestra el resultado en la consola. Luego, verifica si la suma es mayor o igual a 100 y muestra un mensaje correspondiente.
