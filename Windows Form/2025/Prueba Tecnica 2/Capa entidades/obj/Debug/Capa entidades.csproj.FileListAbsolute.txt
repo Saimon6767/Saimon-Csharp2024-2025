@@ -1,0 +1,6 @@
+C:\Users\Ado xD\source\repos\Windows xd\Capa entidades\bin\Debug\Capa entidades.dll
+C:\Users\Ado xD\source\repos\Windows xd\Capa entidades\bin\Debug\Capa entidades.pdb
+C:\Users\Ado xD\source\repos\Windows xd\Capa entidades\obj\Debug\Capa entidades.csproj.AssemblyReference.cache
+C:\Users\Ado xD\source\repos\Windows xd\Capa entidades\obj\Debug\Capa entidades.csproj.CoreCompileInputs.cache
+C:\Users\Ado xD\source\repos\Windows xd\Capa entidades\obj\Debug\Capa entidades.dll
+C:\Users\Ado xD\source\repos\Windows xd\Capa entidades\obj\Debug\Capa entidades.pdb
