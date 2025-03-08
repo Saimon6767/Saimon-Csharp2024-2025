@@ -1,0 +1,6 @@
+C:\Users\Ado xD\source\repos\Proyecto con base de datos\Capa datos\bin\Debug\Capa datos.dll
+C:\Users\Ado xD\source\repos\Proyecto con base de datos\Capa datos\bin\Debug\Capa datos.pdb
+C:\Users\Ado xD\source\repos\Proyecto con base de datos\Capa datos\obj\Debug\Capa datos.csproj.AssemblyReference.cache
+C:\Users\Ado xD\source\repos\Proyecto con base de datos\Capa datos\obj\Debug\Capa datos.csproj.CoreCompileInputs.cache
+C:\Users\Ado xD\source\repos\Proyecto con base de datos\Capa datos\obj\Debug\Capa datos.dll
+C:\Users\Ado xD\source\repos\Proyecto con base de datos\Capa datos\obj\Debug\Capa datos.pdb

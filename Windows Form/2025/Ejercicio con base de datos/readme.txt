@@ -1,0 +1,1 @@
+con este ejercicio, aunque ya no me funciona porque no tengo la base de datos,fue el primero que hicimos usando programación por capas y Ado.net 

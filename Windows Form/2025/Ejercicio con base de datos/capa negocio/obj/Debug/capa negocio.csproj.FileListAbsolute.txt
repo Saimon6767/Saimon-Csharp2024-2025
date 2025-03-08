@@ -1,0 +1,9 @@
+C:\Users\Ado xD\source\repos\Proyecto con base de datos\capa negocio\bin\Debug\capa negocio.dll
+C:\Users\Ado xD\source\repos\Proyecto con base de datos\capa negocio\bin\Debug\capa negocio.pdb
+C:\Users\Ado xD\source\repos\Proyecto con base de datos\capa negocio\bin\Debug\Capa datos.dll
+C:\Users\Ado xD\source\repos\Proyecto con base de datos\capa negocio\bin\Debug\Capa datos.pdb
+C:\Users\Ado xD\source\repos\Proyecto con base de datos\capa negocio\obj\Debug\capa negocio.csproj.AssemblyReference.cache
+C:\Users\Ado xD\source\repos\Proyecto con base de datos\capa negocio\obj\Debug\capa negocio.csproj.CoreCompileInputs.cache
+C:\Users\Ado xD\source\repos\Proyecto con base de datos\capa negocio\obj\Debug\capa neg.E7C23D08.Up2Date
+C:\Users\Ado xD\source\repos\Proyecto con base de datos\capa negocio\obj\Debug\capa negocio.dll
+C:\Users\Ado xD\source\repos\Proyecto con base de datos\capa negocio\obj\Debug\capa negocio.pdb
