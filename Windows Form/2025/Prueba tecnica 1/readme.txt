@@ -1,0 +1,1 @@
+En este proyecto por capas debíamos crear un formulario conectado a base de datos con operaciones crud principales sobre la gestión de libros

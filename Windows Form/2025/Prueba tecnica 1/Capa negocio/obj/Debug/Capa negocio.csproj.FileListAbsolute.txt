@@ -1,0 +1,9 @@
+C:\Users\Ado xD\source\repos\proyecto de gamalier\Capa negocio\bin\Debug\Capa negocio.dll
+C:\Users\Ado xD\source\repos\proyecto de gamalier\Capa negocio\bin\Debug\Capa negocio.pdb
+C:\Users\Ado xD\source\repos\proyecto de gamalier\Capa negocio\bin\Debug\Capa datos.dll
+C:\Users\Ado xD\source\repos\proyecto de gamalier\Capa negocio\bin\Debug\Capa datos.pdb
+C:\Users\Ado xD\source\repos\proyecto de gamalier\Capa negocio\obj\Debug\Capa negocio.csproj.AssemblyReference.cache
+C:\Users\Ado xD\source\repos\proyecto de gamalier\Capa negocio\obj\Debug\Capa negocio.csproj.CoreCompileInputs.cache
+C:\Users\Ado xD\source\repos\proyecto de gamalier\Capa negocio\obj\Debug\Capa neg.E8DF6CA8.Up2Date
+C:\Users\Ado xD\source\repos\proyecto de gamalier\Capa negocio\obj\Debug\Capa negocio.dll
+C:\Users\Ado xD\source\repos\proyecto de gamalier\Capa negocio\obj\Debug\Capa negocio.pdb
